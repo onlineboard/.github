@@ -1,5 +1,3 @@
-Hello, dear open source lover!
-
 ![Onlineboard logo](https://onlineboard.eu/favicon_v2_64opt.png)
 
 We are **Onlineboard**, free multiplayer whiteboard with real-time collaboration support running in a web browser.
